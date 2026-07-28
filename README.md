@@ -22,6 +22,7 @@ The pipeline processes data through the following layers:
 - GitHub
 
 ## Pipeline Flow
+
 ```text
 Raw CSV Data
      ↓
