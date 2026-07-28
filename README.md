@@ -39,14 +39,12 @@ Job Orchestration
 
 ## Screenshots
 
-**Databricks Job orchestration completed successfully:**
+### Databricks Job Orchestration Completed Successfully
 
-**Job Orchestration Success**
+### Job Orchestration Success
 
 ![Job Orchestration Success](screenshots/job_orchestration_success.png)
 
-
-
-**Job Orchestration Graph**
+### Job Orchestration Graph
 
 ![Job Orchestration Graph](screenshots/job_orchestration_graph.png)
