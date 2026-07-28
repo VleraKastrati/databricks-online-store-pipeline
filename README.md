@@ -36,10 +36,14 @@ Gold Layer
 Job Orchestration
 
 
-## Screenshot
+## Screenshots
 
-Databricks Job orchestration completed successfully:
+**Databricks Job orchestration completed successfully:**
 
-![Job Orchestration Success](screenshots/job_orchestration_success)
+**Job Orchestration Success**
 
-![Job Orchestration Graph](screenshots/job_orchestration_graph)
+![Job Orchestration Success](screenshots/job_orchestration_success.png)
+
+**Job Orchestration Graph**
+
+![Job Orchestration Graph](screenshots/job_orchestration_graph.png)
