@@ -34,3 +34,12 @@ Data Quality Checks
 Gold Layer
      ↓
 Job Orchestration
+
+
+## Screenshot
+
+Databricks Job orchestration completed successfully:
+
+![Job Orchestration Success](screenshots/job_orchestration_success)
+
+![Job Orchestration Graph](screenshots/job_orchestration_graph)
